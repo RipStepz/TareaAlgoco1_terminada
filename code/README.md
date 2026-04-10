@@ -9,6 +9,9 @@ https://www.geeksforgeeks.org/dsa/strassens-matrix-multiplication (Aqui se encue
 La entrega se realiza vía **aula.usm.cl** en formato `.zip`.
 Para correr ambos main, make run en la carpeta respectiva.
 
+Arturo Andres Almonacid Vargas
+rol: 202373515-9
+
 ## Multiplicación de matrices
 Naive
     Recorre filas de la primera matriz y columnas de la segunda,
